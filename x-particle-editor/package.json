@@ -13,7 +13,7 @@
   "dependencies": {
     "brfs": "1.4.0",
     "canvas-fit": "1.4.0",
-    "codemirror": "5.1.0",
+    "codemirror": "5.58.2",
     "gl-context": "0.1.1",
     "gl-geometry": "1.0.3",
     "gl-shader": "4.0.1"
